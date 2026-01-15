@@ -1,12 +1,36 @@
 <h1>Bonjour, je suis Manal HAMID 👋</h1>
-<h3>Étudiante en Master Ingénierie de la Décision | Data, Business Intelligence & Systèmes d’Information</h3>
+<h3>
+Étudiante en Master Ingénierie de la Décision <br>
+Data Analysis | Business Intelligence | Machine Learning
+</h3>
 
 <p>
+  
 Je suis étudiante en Master Ingénierie de la Décision, passionnée par l’analyse de données,
 la business intelligence, le machine learning et la gouvernance des systèmes d’information.
 À travers mes projets académiques (dont mon PFE), j’ai travaillé sur des problématiques
-de performance, de prédiction et de pilotage décisionnel.
+de performance, de prédiction et de pilotage décisionnel basées sur les données.
 </p>
+
+<hr/>
+
+<h2>🛠️ Compétences techniques</h2>
+<ul>
+  <li>Python (Pandas, NumPy, Scikit-learn)</li>
+  <li>Machine Learning & modélisation prédictive</li>
+  <li>Power BI (Power Query, DAX, visualisation, KPI)</li>
+  <li>Analyse de données & aide à la décision</li>
+  <li>Gouvernance des systèmes d’information</li>
+  <li>Git & GitHub</li>
+</ul>
+
+<h2>🧠 Compétences transversales</h2>
+<ul>
+  <li>Analyse et esprit critique</li>
+  <li>Communication et travail en équipe</li>
+  <li>Autonomie et rigueur</li>
+  <li>Organisation et gestion du temps</li>
+</ul>
 
 <hr/>
 
@@ -78,16 +102,6 @@ de performance, de prédiction et de pilotage décisionnel.
 
 <hr/>
 
-<h2>🛠️ Compétences & outils</h2>
-<ul>
-  <li>Python (Pandas, NumPy, Scikit-learn)</li>
-  <li>Machine Learning & Modélisation prédictive</li>
-  <li>Power BI (Power Query, visualisation, KPI)</li>
-  <li>Gouvernance des SI & transformation digitale</li>
-  <li>Analyse de performance & aide à la décision</li>
-</ul>
-
-<hr/>
 
 <h2>🤳 Me contacter</h2>
 
