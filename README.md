@@ -117,3 +117,9 @@ Mon profil LinkedIn
 </p>
 
 
+<p>
+<a href="MANAL%20HAMID%20CV.pdf" target="_blank">
+📄 Télécharger mon CV
+</a>
+</p>
+
