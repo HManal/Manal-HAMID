@@ -1,58 +1,105 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Bonjour, je suis Manal HAMID 👋</h1>
+<h3>Étudiante en Master Ingénierie de la Décision | Data, Business Intelligence & Systèmes d’Information</h3>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Je suis étudiante en Master Ingénierie de la Décision, passionnée par l’analyse de données,
+la business intelligence, le machine learning et la gouvernance des systèmes d’information.
+À travers mes projets académiques (dont mon PFE), j’ai travaillé sur des problématiques
+de performance, de prédiction et de pilotage décisionnel.
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<hr/>
+
+<h2>🎓 Projet de Fin d’Études (PFE)</h2>
+<ul>
+  <li>
+    <b>L’impact de la digitalisation sur la performance des banques marocaines</b><br>
+    <i>
+      Étude de l’effet de la transformation digitale sur la performance bancaire au Maroc,
+      à travers une analyse des indicateurs de performance et des pratiques de digitalisation.
+    </i>
+  </li>
+</ul>
+
+<hr/>
+
+<h2>🤖 Projets Machine Learning</h2>
+<ul>
+  <li>
+    <b>Analyse prédictive du risque de crédit des clients</b><br>
+    <i>
+      Développement d’un modèle de machine learning pour estimer le risque de crédit
+      à partir de données financières et socio-démographiques afin d’aider à la décision.
+    </i>
+  </li>
+
+  <li>
+    <b>Prédiction des émissions SO₂ en JFC1</b><br>
+    <i>
+      Mise en place d’un modèle prédictif pour anticiper les niveaux d’émissions de SO₂,
+      en exploitant des données de processus et des variables opérationnelles.
+    </i>
+  </li>
+
+  <li>
+    <b>Prédiction du prix de l’immobilier au Maroc selon les caractéristiques du logement</b><br>
+    <i>
+      Conception d’un modèle de prédiction des prix immobiliers en fonction des variables
+      du logement (surface, localisation, nombre de pièces, etc.).
+    </i>
+  </li>
+</ul>
+
+<hr/>
+
+<h2>📊 Projet Power BI</h2>
+<ul>
+  <li>
+    <b>Analyse et visualisation des données commerciales (RetailPlus)</b><br>
+    <i>
+      Création de tableaux de bord interactifs sous Power BI pour analyser les ventes,
+      suivre les KPI commerciaux et faciliter la prise de décision.
+    </i>
+  </li>
+</ul>
+
+<hr/>
+
+<h2>🧩 Projet Systèmes d’Information</h2>
+<ul>
+  <li>
+    <b>Intégration de la gouvernance des SI dans un projet de transformation digitale : Cas CHP El Jadida</b><br>
+    <i>
+      Analyse et proposition d’une démarche de gouvernance SI (organisation, processus, sécurité,
+      alignement stratégique) pour accompagner un projet de transformation digitale.
+    </i>
+  </li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Compétences & outils</h2>
+<ul>
+  <li>Python (Pandas, NumPy, Scikit-learn)</li>
+  <li>Machine Learning & Modélisation prédictive</li>
+  <li>Power BI (Power Query, visualisation, KPI)</li>
+  <li>Gouvernance des SI & transformation digitale</li>
+  <li>Analyse de performance & aide à la décision</li>
+</ul>
+
+<hr/>
+
+<h2>🤳 Me contacter</h2>
+
+<a href="https://linkedin.com/in/manal-hamid-2a3b31304" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<p>
+<a href="https://linkedin.com/in/manal-hamid-2a3b31304" target="_blank">
+Mon profil LinkedIn
+</a>
+</p>
+
+
